@@ -11,7 +11,7 @@ namespace Quiz1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Quiz 1.")
+            Console.WriteLine("This is Quiz 1.");
         }
     }
 }
