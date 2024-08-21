@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,7 @@ namespace Quiz1
     {
         static void Main(string[] args)
         {
-            fdh
+            Console.WriteLine("This is Quiz 1.")
         }
     }
 }
